@@ -1,1 +1,3 @@
-# coursera_casptone_project
+## Applied Data Science Capstone
+
+## Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods
